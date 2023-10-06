@@ -1,0 +1,147 @@
+body {
+    background-color:   #F5EDE2 ;
+    border: none;
+    padding: 20px;
+      }
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+a {
+    display: inline-block;
+    font-size: 18px;
+    font-family: sans-serif;
+    position: relative;
+    top: 1%;
+    text-align: justify;
+
+}
+.menu {
+
+    
+    border-bottom: solid  #eadbdd 1px;
+padding: 30px;
+    background-color:#B5EAD7;
+    border: solid black 3px;
+    border-bottom: solid gray 3px;
+    border-right: solid gray 3px;
+    position: static;
+    text-align: justify;
+   }
+   nav {
+       margin-right:  35%;
+       text-align: right;
+       padding: 30px 30px 30px 30px;
+       word-spacing: 15px;  
+       
+   
+
+       
+   }
+   #fotoPerfil {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       border-radius: 150px;
+       position: relative;
+       top: 110px;
+       border: solid black 3px;
+       
+   }
+   #eu, h1{
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       text-align: center;
+       position: relative;
+       bottom: 210px;
+       font-size: 40px;
+       left: 10px;
+       
+   }
+   #instagra {
+       position: relative;
+       left: 85%;
+       bottom: 75px;
+       
+       
+   }
+   .inicio {
+       position: static
+       top: 30px;
+   }
+   h1, h3 {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+   }
+   input {
+       border: solid gray 2px;
+       position: static;
+       display: inline-block;
+       top: 20px;
+   }
+   textarea {
+       position: relative;
+       top: 40px;
+       border: solid gray 3px;
+       left: 20px;
+       display: block;
+       margin:10px;
+       border-bottom: solid;
+   }
+   h3 {
+       font-size: 30px;
+       position: static;
+       
+       
+   }
+   #contatoD {
+       position: relative;
+       bottom: 100px;
+   }
+   
+* {
+    margin: 0;
+    padding: 0;
+}
+.titulo {
+    margin: 30px;
+}
+#contateMe {
+    padding: 15%;
+    
+    top: 80px
+
+}
+main {
+    bottom: 150px;
+    position:relative;
+    padding: 50px;
+
+
+    
+}
+li {
+ position:  relative;
+ bottom: 90px;
+ padding-left: 10px;
+}
+#whatsapp {
+    position: absolute;
+    bottom: 0;
+    left: 400px;
+    width: 50%;
+    height: 50%;
+    border: solid;
+    border-bottom: solid gray 3px;
+}
+button {
+    padding: 5px;
+    position: relative;
+    left: 30px;
+}
+.play {
+ position: relative;
+ top: 100px;
+ left: 240px;
+ border: solid;
+}
